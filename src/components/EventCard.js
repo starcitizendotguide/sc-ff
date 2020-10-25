@@ -16,7 +16,7 @@ const generateCardFooter = function(props) {
         if(props.speculation) {
             return <span>Event probably starts in ~{humanizeDuration(now.getTime() - startDate.getTime(), { units: ["mo", "w"], round: true })}</span>
         } else {
-            return <span>Event starts in {humanizeDuration(now.getTime() - startDate.getTime(), { units: ["mo", "d", "h"], round: true })}</span>
+            return <span>Event starts in {humanizeDuration(now.getTime() - startDate.getTime(), { units: ["mo", "d"], round: true })}</span>
         }
     }
 
