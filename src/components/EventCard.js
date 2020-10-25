@@ -16,7 +16,12 @@ const generateCardFooter = function(props) {
         if(props.speculation) {
             return <span>Event probably starts in ~{humanizeDuration(now.getTime() - startDate.getTime(), { units: ["mo", "w"], round: true })}</span>
         } else {
-            return <span>Event starts in {humanizeDuration(now.getTime() - startDate.getTime(), { units: ["mo", "d"], round: true })}</span>
+        return (<span>
+                    Event starts in {humanizeDuration(now.getTime() - startDate.getTime(), { units: ["mo", "d"], round: true })} <span> on </span>  
+                    {startDate.toLocaleDateString("en-GB", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })} 
+                    <span> until </span> {endDate.toLocaleDateString("en-GB", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}
+                </span>
+                );
         }
     }
 
