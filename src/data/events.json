@@ -1,0 +1,39 @@
+[
+    {
+        "name": "IAE 2950",
+        "description": "Invictus Launch Week, also commonly known as Fleet Week, is the period between Emancipation Day and Armistice Day that marks the beginning of the new recruitment year for the UEE Navy.",
+        "start": "2020-11-21",
+        "end": "2020-12-05",
+        "eventLink": "#",
+        "headerImage": "https://robertsspaceindustries.com/media/nntod771l6osrr/source/RSI_Mantis_Interdiction_092019.jpg",
+        "signupLink": "https://robertsspaceindustries.com/enlist?referral=STAR-Z7NT-6CZ9",
+        "speculation": true
+    },
+    {
+        "name": "Ship Showdown 2950",
+        "description": "Invictus Launch Week, also commonly known as Fleet Week, is the period between Emancipation Day and Armistice Day that marks the beginning of the new recruitment year for the UEE Navy.",
+        "start": "2020-09-13",
+        "end": "2020-09-23",
+        "eventLink": "#",
+        "headerImage": "https://robertsspaceindustries.com/media/nntod771l6osrr/source/RSI_Mantis_Interdiction_092019.jpg",
+        "signupLink": "https://robertsspaceindustries.com/enlist?referral=STAR-Z7NT-6CZ9"
+    },
+    {
+        "name": "Invictus Week 2950",
+        "description": "Invictus Launch Week, also  Day and Armistice Day that marks the beginning of the new recruitment year for the UEE Navy.",
+        "start": "2020-05-22",
+        "end": "2020-06-01",
+        "eventLink": "https://robertsspaceindustries.com/comm-link//17574-Invictus-Launch-Week-Free-Fly-Details",
+        "headerImage": "https://robertsspaceindustries.com/rsi/layouts/types/fleet-week2020/assets/images/fleet-week-logo.png",
+        "signupLink": "https://robertsspaceindustries.com/enlist?referral=STAR-Z7NT-6CZ9"
+    },
+    {
+        "name": "IAE 2949",
+        "description": "Invictus Launch Week, also commonly known as Fleet Week, is the period between Emancipation Day and Armistice Day that marks the beginning of the new recruitment year for the UEE Navy.",
+        "start": "2019-11-24",
+        "end": "2019-12-05",
+        "eventLink": "https://robertsspaceindustries.com/comm-link//17574-Invictus-Launch-Week-Free-Fly-Details",
+        "headerImage": "https://robertsspaceindustries.com/rsi/layouts/types/anniversary2019/assets/images/logo-IAE.png",
+        "signupLink": "https://robertsspaceindustries.com/enlist?referral=STAR-Z7NT-6CZ9"
+    }
+]

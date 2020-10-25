@@ -1,0 +1,15 @@
+.card-img-top {
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.card-column {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.footer-btn {
+    width: 100%;
+}
