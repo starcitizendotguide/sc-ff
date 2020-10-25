@@ -2,12 +2,11 @@
     {
         "name": "IAE 2950",
         "description": "The Intergalactic Aerospace Exposition, or IAE, is the universe’s premier space ship show and convention. Taking place at New Babbage.",
-        "start": "2020-11-21",
-        "end": "2020-12-05",
+        "start": "2020-11-20",
+        "end": "2020-12-02",
         "eventLink": "https://iae2950.com",
         "headerImage": "https://robertsspaceindustries.com/media/nntod771l6osrr/source/RSI_Mantis_Interdiction_092019.jpg",
-        "signupLink": "https://robertsspaceindustries.com/enlist?referral=STAR-Z7NT-6CZ9",
-        "speculation": true
+        "signupLink": "https://robertsspaceindustries.com/enlist?referral=STAR-Z7NT-6CZ9"
     },
     {
         "name": "Ship Showdown 2950",
