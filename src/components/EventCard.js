@@ -37,7 +37,7 @@ const generateCardFooter = function(props) {
 const EventCard = (props) => {
 
     return (
-        <div className="col col-sm-12 col-md-6 col-lg-4 card-column">
+        <div className="col col-12 col-sm-12 col-md-6 col-lg-4 card-column">
             <div className="card">
                 <div className="card-body h-100">
                     <h5 className="card-title">{props.name}</h5>

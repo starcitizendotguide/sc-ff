@@ -5,10 +5,7 @@ import App from './components/App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <div>
-      <div className="background-image"></div>
-      <App />
-    </div>
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
