@@ -1,5 +1,14 @@
 [
     {
+        "name": "Feb 2021",
+        "description": "Event TBA",
+        "start": "2021-02-15",
+        "end": "2021-02-25",
+        "eventLink": "https://robertsspaceindustries.com/comm-link/transmission/17988-February-Frenzy",
+        "headerImage": "https://media.robertsspaceindustries.com/j3nbt82rq7dfm/source.jpg",
+        "signupLink": "https://robertsspaceindustries.com/enlist?referral=STAR-Z7NT-6CZ9"
+    },
+    {
         "name": "IAE 2950",
         "description": "The Intergalactic Aerospace Exposition, or IAE, is the universe’s premier space ship show and convention. Taking place at New Babbage.",
         "start": "2020-11-20",
